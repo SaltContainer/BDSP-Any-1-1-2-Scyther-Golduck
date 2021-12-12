@@ -1,5 +1,5 @@
 {
-  "title": "Any% Glitchless - Scyther", 
+  "title": "Any% (1.1.2) - Scyther & Golduck", 
   "author": [
     {
       "name": "Corvimae", 
@@ -8,6 +8,17 @@
     {
       "name": "Etchy",
       "link": "https://twitter.com/Etchy__"
+    },
+    {
+      "name": "SaltContainer",
+      "link": "https://twitter.com/NaClContainer"
+    },
+    {
+      "name": "ConcernedMom",
+      "link": "https://twitter.com/CONCERNEDMOMHS"
+    },
+    {
+      "name": "double-negative"
     }
   ],
   "game": "Brilliant Diamond", 
