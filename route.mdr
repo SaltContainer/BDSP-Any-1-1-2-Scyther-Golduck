@@ -97,7 +97,7 @@ These notes play extremely safe and overheal in a lot of places while buying ton
 
 If the route does not say to learn a move explicitly, do not learn it.
 
-**[Here is Etchy's example 3:34:26 run for the Glitchless Scyther route.](https://youtu.be/JBWDPPfYL18) This route follows the Glitchless route almost exactly up to Maylene. Please watch and follow along with the notes before attempting runs, it will save you a lot of time and trouble.**
+**[Here is Etchy's example 3:34:26 run for the Glitchless Scyther route.](https://youtu.be/JBWDPPfYL18) This any% route follows the Glitchless route almost exactly up to Maylene. Please watch and follow along with the notes before attempting runs, it will save you a lot of time and trouble.**
 
 **I strongly recommend playing overly safe until you get to the Scyther catch. A good Scyther catch can bring back a bad start, and getting through the run is more important than getting a perfect run while you're learning. Save often.**
 
@@ -462,7 +462,7 @@ Head to the building directly to the right of the Galactic Eterna building.
 **Eterna Shopping:**
 - 11+ Heal Powders
 - 13+ Energy Roots
-These amounts are relatively safe. You can still buy more if necessary.
+:info[These amounts are relatively safe. You can still buy more if necessary.]{color=gray}
 
 Get Thief from the the path to the north-east of the Team Galactic building.
 - Heal team to full.
@@ -522,7 +522,9 @@ Get the bike from the Cycle shop. Head south to Cycling Road and avoid all the t
 
 Head through the gap in the rocks, then go right. Watch out for the roamers.
 
-Grab the hidden Rare Candy past the hiker on the hill. ![](https://i.imgur.com/GMgCk6j.png)
+Grab the hidden Rare Candy past the hiker on the hill.
+
+![](https://i.imgur.com/GMgCk6j.png)
 
 Head past the hiker spinner into the cave.
 
@@ -532,7 +534,9 @@ After entering Mt. Coronet
   - Register the Bike.
   - Use the Bike.
 
-Grab the Ether in the Rock right above the Cyrus cutscene trigger. ![](https://i.imgur.com/6PFKdY9.png)
+Grab the Ether in the Rock right above the Cyrus cutscene trigger.
+
+![](https://i.imgur.com/6PFKdY9.png)
 
 Head through the cave then avoid the bridge hiker spinners and head to Hearthome.
 
@@ -564,7 +568,9 @@ After leaving town:
 - Deposit Prinplup
 - Repel (refresh until Veilstone)
 
-Before reaching Solaceon Town, grab the Calcium on the left side of the route for extra Special Attack on the Golduck later. ![](https://i.imgur.com/FxYuE0O.png)
+Before reaching Solaceon Town, grab the Calcium on the left side of the route for extra Special Attack on the Golduck later.
+
+![](https://i.imgur.com/FxYuE0O.png)
 
 You can ignore the doubles. Avoid the spinner by going through the grass.
 At the milk house, head east.
@@ -612,8 +618,8 @@ Take the escalator to the third floor.
 
 **Third floor, top vendor:**
 - _Sell:_
-  - All TMs. :info[**(DON'T SELL ALL OF THEM)**]{color=red}
-- _Buy_:_
+  - All TMs
+- _Buy:_
   - TM75 Sword Dance (^^^)
 
 **Third floor, bottom vendor:**
@@ -703,7 +709,9 @@ Bike back to Route 203 and position yourself on the right-most stairs tiles afte
 
 Do the same thing again on the tiles after the stairs.
 
-Bike back to Jubilife, then down to Route 202. Exit the Route into OoB in the area highlighted in yellow here. ![](https://i.imgur.com/M0Jf5bv.png)
+Bike back to Jubilife, then down to Route 202. Exit the Route into OoB in the area highlighted in yellow here.
+
+![](https://i.imgur.com/M0Jf5bv.png)
 
 OoB, get the fly points for Resort Area and Celestic. If you want the extra candy from Route 212, grab the fly point for Pastoria. Here are paths you can take:
 - _If you want the extra candy from Route 212:_
@@ -715,9 +723,18 @@ OoB, get the fly points for Resort Area and Celestic. If you want the extra cand
   - Right for 7 seconds. If you hit 223 or Pokémon League, go back left for a tiny bit.
   - Up until you hit Resort Area.
   - Left for 27 seconds.
-  - Down until you hit Celestic
-- _Otherwise:_
-  - 
+  - Down until you hit Celestic.
+- _Otherwise (Untested for now, will test tomorrow):_
+  - Down-right until you see the top right corner of 221. You might have to go down for a few tiles at the start.
+  - Down until you're at the bottom right corner of 221.
+  - Left for 47 seconds.
+  - Up until you reach 213 or 222.
+  - Follow the routes up all the way to Veilstone.
+  - Right for 7 seconds. If you hit 223 or Pokémon League, go back left for a tiny bit.
+  - Up until you hit Resort Area.
+  - Left for 27 seconds.
+  - Down until you hit Celestic.
+
 After hitting all the fly points, use the Pokétch to Fly to Celestic.
 
 You'll still be in Ledgitate after Flying. Enter the house in the north-west of Celestic and get the Choice Specs. To help for catching Golduck, you can buy 2 Quick Balls from the old man here.
@@ -745,13 +762,7 @@ Enter the:
     - _If Drifblim used Fly:_
       - X Defense (only need to do this once)
     - (Swords Dance if you're still not at +4)
-    :::if{source="Scyther" condition="atk=(x / 23+ / 0+)"}
     - Wing Attack
-    :::
-    :::if{source="Scyther" condition="atk=(0+ / 0-22 / 0+)"}
-    - Thief
-    :::
-    -
     :info[Do not teach Agility.]{color=gray}
     :damage[Fly +2]{source="Scyther" offensive=false movePower=90 level=31 type="Flying" combatStages=2}
   :::
@@ -816,6 +827,7 @@ A Golduck with 0IV in every stat (Neutral Nature) is able to make it through E4 
   - Fly to Jubilife.
   - Bike through the left gate.
   - Surf up to the top right of the route.
+
 ![](https://i.imgur.com/UyxpcZB.png)
 
 - **Route 214**
@@ -842,6 +854,7 @@ A Golduck with 0IV in every stat (Neutral Nature) is able to make it through E4 
   - Fly to Pastoria.
   - Exit to the bottom left.
   - Get the candy in the bog.
+
 ![](https://i.imgur.com/WjyhOQz.png)
 
 - **Route 230** - This one should be a last resort.
@@ -849,6 +862,7 @@ A Golduck with 0IV in every stat (Neutral Nature) is able to make it through E4 
   - Enter the water towards 230.
   - Get to the big island in the middle of the Route.
   - On the right, break the Rock Smash rock and get the candy.
+
 ![](https://i.imgur.com/X0F9j0f.png)
 
 After getting all the candies you need:
@@ -871,7 +885,9 @@ With this, slowly make your way to the Mt. Coronet entrance and get OoB through 
 
 Follow the edge of the map up and right, until the top right corner, then go down. You should be above lines of trees.
 
-Line up like this image, your VERTICAL position is what matters (up and down): ![](https://i.imgur.com/71AOEzS.png)
+Line up like this image, your VERTICAL position is what matters (up and down):
+
+![](https://i.imgur.com/71AOEzS.png)
 
 This is quite precise (about half a tile of leeway), so be extra careful with your lineup.
 
@@ -889,7 +905,9 @@ Surf into the cutscene if you are able to. Otherwise exit the water and trigger 
 - Go up and back down the LEFT escalator and exit the League.
 - Press B then X quickly to transform your Fly Storage into a Strength Storage.
 - Enter the Bag, then Surf on the water.
-- Select the Honey in your bag. Exit the water and use the Honey quickly after, but not instantly. If done correctly, you'll get the "There appears to be nothing here..." text. ![](https://i.imgur.com/VSPnGJO.png)
+- Select the Honey in your bag. Exit the water and use the Honey quickly after, but not instantly. If done correctly, you'll get the "There appears to be nothing here..." text.
+
+![](https://i.imgur.com/VSPnGJO.png)
 - Ball Capsule Preview to fix your position.
 
 _If you are doing Cynthia Skip:_
@@ -898,7 +916,9 @@ _If you are doing Cynthia Skip:_
 - You can move the map cursor with the Right Stick. Placing it in the top right of the map will help avoid accidentally pressing A on a Fly Location.
 - Opening a menu with X will reset the map cursor to Pokémon League, so make sure to move it after your menus!
 
-Position yourself in the bottom right corner. This is the position you're looking for: ![](https://i.imgur.com/sgEnrc8.png)
+Position yourself in the bottom right corner. This is the position you're looking for:
+
+![](https://i.imgur.com/sgEnrc8.png)
 
 Press X to open a menu and Ball Capsule Preview to fix your position.
 
@@ -914,6 +934,7 @@ Get off of Bibarel and go fight the Elite Four.
 
 - Heal if you're not at full.
 - Equip Pecha Berry.
+
 _If you are doing Cynthia Skip:_
 - Use a Super Repel.
 
@@ -1005,7 +1026,7 @@ _If you are doing Cynthia Skip:_
     - X Sp. Atk x3
     - Heal on the turn Light Screen wears off. :info[_If you need to stall, throw a ball or heal._]{color=gray}
     - Surf
-    :damage[Mr. Mime's Psychic]{source="Golduck" offensive=false movePower=90 level=58 evs=0 special=true type="Psychic"}
+    :damage[Mr. Mime's Psychic with +4 Sp. Def]{source="Golduck" offensive=false movePower=90 level=58 evs=0 special=true type="Psychic" combatStages=4}
   :::
   :::pokemon[Girafarig]{baseStats="[70, 80, 65, 90, 65, 85]" ivs="[31, 0, 31, 31, 31, 0]" evs="[252, 0, 12, 12, 12, 0]" type="Normal/Psychic" level=59 nature="Calm"}
     - Surf
