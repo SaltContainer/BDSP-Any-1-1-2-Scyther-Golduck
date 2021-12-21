@@ -789,103 +789,6 @@ Enter the:
 :::::
 
 After exiting the gym:
-- Fly to Jubilife.
-
-Go to the left towards Route 218.
-
-Use a Super Repel before the water.
-
-Grab the candy in the top right.
-
-![](https://i.imgur.com/UyxpcZB.png)
-
-Go through the route avoiding all the trainers.
-
-Go onto the bridge in Canalave.
-
-:::::trainer[Pokemon Trainer Barry]
-  :::pokemon[Staravia]{baseStats="[55, 75, 50, 40, 40, 80]" ivs="[5, 5, 5, 5, 5, 5]" evs="[40, 72, 16, 0, 16, 56]" nature="Jolly" level=32}
-    - X Defend
-    :::if{source="Scyther" condition="spa=(0+ / 0-17 / x)"}
-    - X Speed
-    :::
-    - Swords Dance
-    - _If Double Team:_
-      - X Accuracy
-    - Wing Attack
-    :damage[Pluck +2]{source="Scyther" offensive=false movePower=60 level=33 type="Flying" combatStages=2}
-  :::
-  :::pokemon[Heracross]
-    - Wing Attack
-  :::
-  :::pokemon[Ponyta]{baseStats="[50, 85, 55, 65, 65, 90]" ivs="[7, 7, 7, 7, 7, 7]" evs="[40, 64, 16, 0, 16, 64]" nature="Jolly" level=34}
-    - Wing Attack
-  :::
-  :::pokemon[Buizel]
-    - Wing Attack
-  :::
-  :::pokemon[Grotle]
-    - Wing Attack
-  :::
-:::::
-
-**Swap Prinplup to slot 1 and enter the Canalave gym.**
-
-:::::trainer[Black Belt Ricky]
-  :::pokemon[Steelix]{baseStats="[75, 85, 200, 55 ,65, 30]" nature="Relaxed" level=33}
-    - Grass Knot x2
-  :::
-:::::
-
-Take the fourth elevator.
-
-:::::trainer[Ace Trainer Cesar]
-  :::pokemon[Skorupi]
-    - Surf
-  :::
-  :::pokemon[Steelix]
-    - Surf
-  :::
-:::::
-
-At the fork, go up, then take the lift near the trainer.
-
-Onix's can outspeed, heal between fights as needed.
-
-:::::trainer[Worker Gerardo]
-  :::pokemon[Onix]{baseStats="[35, 45, 160, 30, 45, 70]" nature="Relaxed" level=29}
-    - Bubble Beam
-  :::
-  :::pokemon[Onix]{baseStats="[35, 45, 160, 30, 45, 70]" nature="Relaxed" level=29}
-    - Bubble Beam
-  :::
-:::::
-
-Menu:
-  - Heal Prinplup to Full.
-  - Ball Capsule Preview to fix your position inside the middle elevator.
-
-Fall down and go back up the elevator to Byron.
-
-:::::trainer[Gym Leader Byron]
-  :::pokemon[Bronzor]
-    - Stealth Rock
-    - X Sp. Attack x3
-    - (Heal confusion)
-    - Surf
-    :info[+6 Surf Guaranteed at Lv31 0 IV neutral SpA]{color=gray}
-    :damage[Bronzor's Flash Cannon]{source="Piplup" evolution=1 offensive=false movePower=80 combatStages=0 level=31 evs=44 opponentLevel=36 opponentStat=32 stab=true effectiveness=0.5}
-  :::
-  :::pokemon[Steelix]
-    - Surf
-  :::
-  :::pokemon[Bastiodon]
-    - Surf
-    :info[Do not learn Brine]{color=gray}
-  :::
-:::::
-
-After exiting the gym:
 - Fly to Resort Area.
 
 Go up to the grass on 229, making sure not to hit the spinner (left Ace Trainer).
@@ -898,7 +801,7 @@ Head back to Resort Area and get to the water at the bottom right.
 
 After getting to the water:
 - Put the newly caught Pokémon into Slot 1.
-- Super Repel. Keep renewing it until you get your Golduck.
+- Super Repel. Keep renewing it all the way to Canalave.
 - Swim around in the water.
 - Pray that you get Golduck quickly.
 
@@ -929,7 +832,91 @@ A Golduck with 0IV in every stat (Neutral Nature) is able to make it through E4 
 - Teach Surf on Slot 1.
 - Teach Ice Beam on Slot 2.
 - Teach Psychic on Slot 3.
+- Use your 3 Rare Candies on Golduck.
+- Use your Calcium on Golduck.
 - Put all other Pokémon in the box.
+- Fly to Jubilife.
+
+Go to the left towards Route 218.
+
+Grab the candy in the top right.
+
+![](https://i.imgur.com/UyxpcZB.png)
+
+Go through the route avoiding all the trainers.
+
+Go onto the bridge in Canalave.
+
+:::::trainer[Pokemon Trainer Barry]
+  :::pokemon[Staravia]{baseStats="[55, 75, 50, 40, 40, 80]" ivs="[5, 5, 5, 5, 5, 5]" evs="[40, 72, 16, 0, 16, 56]" nature="Jolly" level=32}
+    - Surf
+  :::
+  :::pokemon[Heracross]
+    - Psychic
+  :::
+  :::pokemon[Ponyta]{baseStats="[50, 85, 55, 65, 65, 90]" ivs="[7, 7, 7, 7, 7, 7]" evs="[40, 64, 16, 0, 16, 64]" nature="Jolly" level=34}
+    - Psychic
+  :::
+  :::pokemon[Buizel]
+    - Psychic
+  :::
+  :::pokemon[Grotle]
+    - Ice Beam
+  :::
+:::::
+
+Enter the Canalave gym.
+
+:::::trainer[Black Belt Ricky]
+  :::pokemon[Steelix]{baseStats="[75, 85, 200, 55 ,65, 30]" nature="Relaxed" level=33}
+    - Psychic
+    - Surf
+  :::
+:::::
+
+Take the fourth elevator.
+
+:::::trainer[Ace Trainer Cesar]
+  :::pokemon[Skorupi]
+    - Surf
+  :::
+  :::pokemon[Steelix]
+    - Surf
+  :::
+:::::
+
+At the fork, go up, then take the lift near the trainer.
+
+Onix's can outspeed, heal between fights as needed.
+
+:::::trainer[Worker Gerardo]
+  :::pokemon[Onix]{baseStats="[35, 45, 160, 30, 45, 70]" nature="Relaxed" level=29}
+    - Ice Beam (?)
+  :::
+  :::pokemon[Onix]{baseStats="[35, 45, 160, 30, 45, 70]" nature="Relaxed" level=29}
+    - Ice Beam (?)
+  :::
+:::::
+
+Menu:
+  - Heal Golduck to Full.
+  - Ball Capsule Preview to fix your position inside the middle elevator.
+
+Fall down and go back up the elevator to Byron.
+
+:::::trainer[Gym Leader Byron]
+  :::pokemon[Bronzor]
+    - Surf
+  :::
+  :::pokemon[Steelix]
+    - Psychic
+    - Surf
+  :::
+  :::pokemon[Bastiodon]
+    - Psychic
+    - Surf
+  :::
+:::::
 
 ## Rare Candies - If you need more than the 3 you already got
 
@@ -950,7 +937,6 @@ A Golduck with 0IV in every stat (Neutral Nature) is able to make it through E4 
 
 After getting all the candies you need:
 - Use them all on Golduck.
-- Use the Calcium on Golduck.
 - Fly to Celestic.
 
 Setup Strength Storage on Route 211. Surf on the puddle next to the house. Exit while using Honey to get Surf on Land.
