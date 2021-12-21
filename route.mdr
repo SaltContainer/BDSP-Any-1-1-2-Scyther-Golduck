@@ -522,6 +522,10 @@ Get the bike from the Cycle shop. Head south to Cycling Road and avoid all the t
 
 :info[_Start down the left side, cut to the far right after the first trainer, cut back to the far left after the third trainer. At the bottom of the lane, cut to the far right, head right past the trainer, then cut to the middle._]{color=gray}
 
+Grab the hidden Revive after the Dawn cutscene.
+
+![](https://media.discordapp.net/attachments/735229809420009516/914237966472339506/unknown.png?width=819&height=447)
+
 Head through the gap in the rocks, then go right. Watch out for the roamers.
 
 Grab the hidden Rare Candy past the hiker on the hill.
@@ -588,6 +592,10 @@ At the milk house, head east.
 
 Pick up the Ether in the pokeball by the jogger.
 
+Grab the hidden Zinc for money.
+
+![](https://media.discordapp.net/attachments/735229809420009516/913635471240876052/unknown.png?width=806&height=448)
+
 Fight the top Ace Trainer first.
 
 :::::trainer[Ace Trainer Maya]
@@ -628,22 +636,15 @@ Take the escalator to the third floor.
 - TM13 Ice Beam
 - TM29 Psychic
 
-**Second floor, top vendor:**
-- _If going for Cynthia Skip:_
-  - 6+ X Speed :info[You can buy extra to be safer on Bertha.]{color=gray}
-  - 3 X Defense
-  - 2 X Accuracy
-  - 8 X Sp. Attack
-  - 2 X Sp. Defense
-- _If NOT going for Cynthia Skip, or if you want the backup:_
-  - 8+ X Speed :info[You can buy extra to be safer on Bertha.]{color=gray}
-  - 3 X Defense
-  - 2 X Accuracy
-  - 11 X Sp. Attack
-  - 4 X Sp. Defense
+**Second floor, top vendor (TO ADJUST):**
+- 8+ X Speed :info[You can buy extra to be safer on Bertha.]{color=gray}
+- 3 X Defense
+- 2 X Accuracy
+- 11 X Sp. Attack
+- 4 X Sp. Defense
 
 **First floor, left vendor:**
-- 10+ Super Repels :info[These are for forcing a high level Golduck. Keep 1 for Cynthia Skip]{color=gray}
+- 20+ Super Repels :info[A lot of these are for forcing a high level Golduck.]{color=gray}
 
 **First floor, right vendor:**
 - MAX Max Potions :info[For safety during E4]{color=gray}
@@ -699,51 +700,61 @@ Heal if yellow HP.
   - Wing Attack Croagunk
 :::::
 
-Get Fly from the warehouse on the hill, then fly to Jubilife.
+Get Fly from the warehouse on the hill, then exit to the south.
 
-Use a Super Repel, and bike to Route 203. Refresh the repel until you're OoB.
+:::::trainer[Psychic Abigail]
+  :::pokemon[Gastly]
+    - Ice Beam
+  :::
+  :::pokemon[Kadabra]
+    - Ice Beam
+  :::
+  :::pokemon[Misdreavus]
+    - Ice Beam
+  :::
+:::::
 
-Avoid all the trainers and position yourself just above the top ledge.
+Use a Super Repel, and bike all the way down to Patoria, avoiding all other trainers. Refresh the repel until you're OoB.
 
-Fly Storage, then Fly to Jubilife as you're jumping the ledge. If done correctly, you'll have Ledgitate.
+Bike down then left out of Pastoria.
 
-Bike back to Route 203 and position yourself on the right-most stairs tiles after the Youngster. Ball Capsule Preview to fix your height.
+Get the Rare Candy in the mud patch before Route 212.
 
-Do the same thing again on the tiles after the stairs.
+![](https://i.imgur.com/WjyhOQz.png)
 
-Bike back to Jubilife, then down to Route 202. Exit the Route into OoB in the area highlighted in yellow here.
+Go back down and to the left. Avoid the trainer.
 
-![](https://i.imgur.com/M0Jf5bv.png)
+Exit the Route into OoB with a bike clip.
 
-OoB, get the fly points for Resort Area and Celestic. If you want the extra candy from Route 212, grab the fly point for Pastoria. Here are paths you can take:
-- _If you want the extra candy from Route 212:_
-  - Down-right until you see the top right corner of 221. You might have to go down for a few tiles at the start.
-  - Down until you're at the bottom right corner of 221.
-  - Left for 52 seconds.
-  - Up until you hit Pastoria.
-  - Follow the routes to the right and up all the way to Veilstone.
-  - Right for 7 seconds. If you hit 223 or Pokémon League, go back left for a tiny bit.
-  - Up until you hit Resort Area.
-  - Left for 27 seconds.
-  - Down until you hit Celestic.
-- _Otherwise (Untested for now, will test tomorrow):_
-  - Down-right until you see the top right corner of 221. You might have to go down for a few tiles at the start.
-  - Down until you're at the bottom right corner of 221.
-  - Left for 47 seconds.
-  - Up until you reach 213 or 222.
-  - Follow the routes up all the way to Veilstone.
-  - Right for 7 seconds. If you hit 223 or Pokémon League, go back left for a tiny bit.
-  - Up until you hit Resort Area.
-  - Left for 27 seconds.
-  - Down until you hit Celestic.
+![](https://i.imgur.com/hOyNhzU.png)
+
+OoB, get the fly points for Resort Area and Celestic. Here is a path you can take (TO TEST):
+- Down for 5 seconds.
+- Left for 60 seconds.
+- Up until you reach 213 or 222.
+- Follow the routes up all the way to Veilstone.
+- Right for 3 seconds. If you hit 223 or Pokémon League, go back left for a tiny bit.
+- Up until you hit Resort Area.
+- Left for 13 seconds.
+- Down until you hit Celestic.
 
 After hitting all the fly points, use the Pokétch to Fly to Celestic.
 
-You'll still be in Ledgitate after Flying. Enter the house in the north-west of Celestic and get the Choice Specs. To help for catching Golduck, you can buy 2 Quick Balls and/or Dusk Balls from the old man here.
+Enter the house in the north-west of Celestic and get the Choice Specs. To help for catching Golduck, you can buy 2 Quick Balls and/or Dusk Balls from the old man here.
 
-Run into the cave entrance, past the Grunt. Ball Capsule Preview to fix your height.
+Fight the grunt in front of the cave.
 
-Wiggle in the entrance until it lets you in. Talk to the mural. Exit the cave.
+:::::trainer[Galactic Grunt]
+  :::pokemon[Beautifly]
+    - Wing Attack
+  :::
+  :::pokemon[Croagunk]
+    - Wing Attack
+  :::
+:::::
+
+Enter the cave. Talk to the mural. Exit the cave.
+
 - Heal to full.
 - Fly to Hearthome.
 
@@ -774,6 +785,103 @@ Enter the:
   :::pokemon[Mismagius]
     - Thief
     :info[Do not teach Fury Attack.]{color=gray}
+  :::
+:::::
+
+After exiting the gym:
+- Fly to Jubilife.
+
+Go to the left towards Route 218.
+
+Use a Super Repel before the water.
+
+Grab the candy in the top right.
+
+![](https://i.imgur.com/UyxpcZB.png)
+
+Go through the route avoiding all the trainers.
+
+Go onto the bridge in Canalave.
+
+:::::trainer[Pokemon Trainer Barry]
+  :::pokemon[Staravia]{baseStats="[55, 75, 50, 40, 40, 80]" ivs="[5, 5, 5, 5, 5, 5]" evs="[40, 72, 16, 0, 16, 56]" nature="Jolly" level=32}
+    - X Defend
+    :::if{source="Scyther" condition="spa=(0+ / 0-17 / x)"}
+    - X Speed
+    :::
+    - Swords Dance
+    - _If Double Team:_
+      - X Accuracy
+    - Wing Attack
+    :damage[Pluck +2]{source="Scyther" offensive=false movePower=60 level=33 type="Flying" combatStages=2}
+  :::
+  :::pokemon[Heracross]
+    - Wing Attack
+  :::
+  :::pokemon[Ponyta]{baseStats="[50, 85, 55, 65, 65, 90]" ivs="[7, 7, 7, 7, 7, 7]" evs="[40, 64, 16, 0, 16, 64]" nature="Jolly" level=34}
+    - Wing Attack
+  :::
+  :::pokemon[Buizel]
+    - Wing Attack
+  :::
+  :::pokemon[Grotle]
+    - Wing Attack
+  :::
+:::::
+
+**Swap Prinplup to slot 1 and enter the Canalave gym.**
+
+:::::trainer[Black Belt Ricky]
+  :::pokemon[Steelix]{baseStats="[75, 85, 200, 55 ,65, 30]" nature="Relaxed" level=33}
+    - Grass Knot x2
+  :::
+:::::
+
+Take the fourth elevator.
+
+:::::trainer[Ace Trainer Cesar]
+  :::pokemon[Skorupi]
+    - Surf
+  :::
+  :::pokemon[Steelix]
+    - Surf
+  :::
+:::::
+
+At the fork, go up, then take the lift near the trainer.
+
+Onix's can outspeed, heal between fights as needed.
+
+:::::trainer[Worker Gerardo]
+  :::pokemon[Onix]{baseStats="[35, 45, 160, 30, 45, 70]" nature="Relaxed" level=29}
+    - Bubble Beam
+  :::
+  :::pokemon[Onix]{baseStats="[35, 45, 160, 30, 45, 70]" nature="Relaxed" level=29}
+    - Bubble Beam
+  :::
+:::::
+
+Menu:
+  - Heal Prinplup to Full.
+  - Ball Capsule Preview to fix your position inside the middle elevator.
+
+Fall down and go back up the elevator to Byron.
+
+:::::trainer[Gym Leader Byron]
+  :::pokemon[Bronzor]
+    - Stealth Rock
+    - X Sp. Attack x3
+    - (Heal confusion)
+    - Surf
+    :info[+6 Surf Guaranteed at Lv31 0 IV neutral SpA]{color=gray}
+    :damage[Bronzor's Flash Cannon]{source="Piplup" evolution=1 offensive=false movePower=80 combatStages=0 level=31 evs=44 opponentLevel=36 opponentStat=32 stab=true effectiveness=0.5}
+  :::
+  :::pokemon[Steelix]
+    - Surf
+  :::
+  :::pokemon[Bastiodon]
+    - Surf
+    :info[Do not learn Brine]{color=gray}
   :::
 :::::
 
@@ -823,41 +931,14 @@ A Golduck with 0IV in every stat (Neutral Nature) is able to make it through E4 
 - Teach Psychic on Slot 3.
 - Put all other Pokémon in the box.
 
-## Rare Candies - Get as many as you need
-
-- **Route 218**
-  - Fly to Jubilife.
-  - Bike through the left gate.
-  - Surf up to the top right of the route.
-
-![](https://i.imgur.com/UyxpcZB.png)
+## Rare Candies - If you need more than the 3 you already got
 
 - **Route 214**
   - Fly to Veilstone.
   - Bike through the bottom gate.
-  - Battle Psychic Abigail.
   - Surf up across the pond.
 
-:::::trainer[Psychic Abigail]
-  :::pokemon[Gastly]
-    - Ice Beam
-  :::
-  :::pokemon[Kadabra]
-    - Ice Beam
-  :::
-  :::pokemon[Misdreavus]
-    - Ice Beam
-  :::
-:::::
-
 ![](https://i.imgur.com/vtgcerv.png)
-
-- **Route 212** - If you got the Pastoria Fly Point.
-  - Fly to Pastoria.
-  - Exit to the bottom left.
-  - Get the candy in the bog.
-
-![](https://i.imgur.com/WjyhOQz.png)
 
 - **Route 230** - This one should be a last resort.
   - Fly to Resort Area.
@@ -869,19 +950,18 @@ A Golduck with 0IV in every stat (Neutral Nature) is able to make it through E4 
 
 After getting all the candies you need:
 - Use them all on Golduck.
+- Use the Calcium on Golduck.
 - Fly to Celestic.
 
-Setup Fly Storage in front of the bottom left house. Enter it and exit the fly menu to get Door Storage. Surf on the puddle next to the house to get Surf on Land.
+Setup Strength Storage on Route 211. Surf on the puddle next to the house. Exit while using Honey to get Surf on Land.
 
-Exit the house and stand in front of the Pokémon Center.
+![](https://i.imgur.com/VSPnGJO.png)
+
+If you can't move away from the water, Ball Capsule Preview to reset your position.
+
+Get back to Route 211 and Ball Capsule Preview to fix your height in front of the Strength boulder. Setup Strength Storage.
 
 Setup Fly Storage, and enter the Center. Go up then back down the LEFT escalator. Exit the Center.
-
-Keeping Fly Storage, make your way to Route 211 to the left making sure not to hit the puddle as that will get you stuck in it.
-
-Stand on the elevated area, then press X to open a menu. Ball Capsule Preview to fix your height.
-
-Close the menu you just opened back to the stored Fly menu. Press B then X quickly to transform your Fly Storage into a Strength Storage.
 
 With this, slowly make your way to the Mt. Coronet entrance and get OoB through it.
 
@@ -897,48 +977,61 @@ Move right until the background turns blue.
 - If the screen turns blue but you can’t go down then you were too high
 - If you stop going right before the screen turns blue then you were too low
 
-Surf down 20-22 tiles (use the disappearing tiles in the back to count). Try to keep it on the lower end to avoid getting stuck in the League pond, but if you do there is a backup.
+Surf down 20-22 tiles (use the disappearing tiles in the back to count). Keep it closer to 20 to avoid getting stuck in the League pond, which would force you to fight Barry.
 
 Surf left until you hit a wall. Go back right a few tiles then Save and Reset.
 
-Surf into the cutscene if you are able to. Otherwise exit the water and trigger it on foot, then follow the backup to get Surf on Land:
-- Get Fly Storage in front of the League.
-- Enter the League.
-- Go up and back down the LEFT escalator and exit the League.
-- Press B then X quickly to transform your Fly Storage into a Strength Storage.
-- Enter the Bag, then Surf on the water.
-- Select the Honey in your bag. Exit the water and use the Honey quickly after, but not instantly. If done correctly, you'll get the "There appears to be nothing here..." text.
+Surf into the cutscene if you are able to. Otherwise, you will have to fight Barry: exit the water and trigger the cutscene on foot.
 
-![](https://i.imgur.com/VSPnGJO.png)
-- Ball Capsule Preview to fix your position.
+_If you have to fight Barry_:
 
-_If you are doing Cynthia Skip:_
-- With Surf on Land active, get Fly Storage in front of the League. Go up and back down the LEFT escalator.
-- You NEED to keep the Fly Storage up until Cynthia. If you close it at any point you have to fight her.
-- You can move the map cursor with the Right Stick. Placing it in the top right of the map will help avoid accidentally pressing A on a Fly Location.
-- Opening a menu with X will reset the map cursor to Pokémon League, so make sure to move it after your menus!
+- Equip Metronome (?)
+
+:::::trainer[Pokemon Trainer Barry]
+  :::pokemon[Staraptor]{info="Close Combat can only be used 3 times btw :)" baseStats="[85, 120, 70, 50, 60, 100]" ivs="[5, 5, 5, 5, 5, 5]" evs="[56, 148, 36, 0, 36, 148]" nature="Jolly" type="Normal/Flying" level=49}
+    - X Defense
+    - X Speed
+    - X Sp. Attack x2
+    - Ice Beam
+    :damage[Staraptor's Close Combat at +2 Defense (Lvl. 57)]{source="Golduck" offensive=false movePower=120 combatStages=2 level=57 evs=0 special=false type="Fighting"}
+  :::
+  :::pokemon[Torterra]{baseStats="[95, 109, 105, 75, 85, 56]" ivs="[11, 11, 11, 11, 11, 11]" evs="[164, 92, 52, 52, 124, 0]" nature="Careful" type="Grass/Ground" level=56}
+    - Ice Beam
+  :::
+  :::pokemon[Snorlax]{baseStats="[160, 110, 65, 65, 110, 30]" ivs="[9, 9, 9, 9, 9, 9]" evs="[96, 120, 96, 0, 88, 0]" nature="Adamant" type="Normal" level=52}
+    - Surf x2
+  :::
+  :::pokemon[Floatzel]{info="Has Quick Claw" baseStats="[85, 105, 55, 85, 50, 115]" ivs="[6, 6, 6, 6, 6, 6]" evs="[44, 104, 40, 0, 40, 160]" nature="Jolly" type="Water" level=49}
+    - Psychic
+    :damage[Floatzel's Brine <50%]{source="Golduck" offensive=false movePower=130 combatStages=0 level=57 evs=0 special=true type="Water"}
+    :damage[Floatzel's Crunch at +2]{source="Golduck" offensive=false movePower=80 combatStages=2 level=57 evs=0 special=false type="Dark"}
+  :::
+  :::pokemon[Heracross]
+    - Psychic
+  :::
+  :::pokemon[Rapidash]
+    - Surf
+  :::
+:::::
+
+Talk to the Badge Checker and go fight the Elite Four.
+
+_If you DON'T have to fight Barry_:
 
 Position yourself in the bottom right corner. This is the position you're looking for:
 
 ![](https://i.imgur.com/sgEnrc8.png)
 
-Press X to open a menu and Ball Capsule Preview to fix your position.
+Ball Capsule Preview to fix your position.
 
 Go around the walls of the center on the right, and enter the Elite Four area from the back (Down until you hit the NPC, then back up).
 
-_If you are doing Cynthia Skip, and therefore doing this blind, you can count the amount of stroke sounds Bibarel makes:_
-- 3 Right
-- 6-8 Up
-- 6.5 Left (Keep going a tiny bit after the 6th stroke)
-- Down :info[_If you can hear a bonk, you're not properly aligned. Hitting the NPC will not produce a bonking sound. Try going left/right a tiny bit._]{color=gray}
-
 Get off of Bibarel and go fight the Elite Four.
+
+## Elite Four
 
 - Heal if you're not at full.
 - Equip Pecha Berry.
-
-_If you are doing Cynthia Skip:_
-- Use a Super Repel.
 
 :::::trainer[Elite Four Aaron]
   :::pokemon[Dustox]{baseStats="[60, 50, 70, 50, 90, 65]" ivs="[31, 0, 21, 21, 21, 31]" evs="[252, 0, 12, 12, 12, 12]" nature="Bold" type="Bug/Poison" level=53}
@@ -1044,11 +1137,6 @@ _If you are doing Cynthia Skip:_
   :::
 :::::
 
-_If you are doing Cynthia Skip:_
-- After entering her room, any time before she starts talking, press B to close the Fly Storage.
-- Let the Super Repel run out, then go up the elevator. GG
-
-_Otherwise:_
 - Heal to Full.
 - Equip Metronome.
 
