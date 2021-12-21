@@ -1,5 +1,5 @@
 {
-  "title": "Any% (1.1.2) - Scyther & Golduck", 
+  "title": "Any% (1.1.3) - Scyther & Golduck", 
   "author": [
     {
       "name": "Corvimae", 
@@ -23,5 +23,5 @@
   ],
   "game": "Brilliant Diamond", 
   "generation": 8, 
-  "version": "0.0.2"
+  "version": "0.0.4"
 }
